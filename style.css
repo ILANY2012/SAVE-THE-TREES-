@@ -1,0 +1,55 @@
+h1{
+    font-family: Arial;
+    background-color:black;
+    color: lightgreen;
+    padding:5px;
+    border-radius:13px
+}
+body{
+  text-align: Center;
+  background-color:Lightgreen;
+}
+img{
+  width:300px;
+  border-radius:20px;
+}
+button{
+  background-color:#32CD32;
+  border-radius:20px;
+  font-family:Arial;
+  width:100px;
+  height:45px;
+  font-size:20px;
+  color: white;
+  padding: 10px;
+}
+
+#head{
+  font-size: 22px;
+ 
+}
+#subtitle{
+  text-shadow: 3px 3px white;
+  
+}
+#reason1{
+  font-variant:small-caps;
+  font-size:20px;
+  word-spacing:5px;
+  margin-left: 30px;
+  margin-right: 30px;
+  margin-bottom: 10px;
+}
+
+h5{
+  background-color: rgba(255, 255, 255, 0.494);;
+  width: 100%;
+  padding: 5px;
+  color :#32CD32;
+  border-radius:10px;
+  font-size:15px
+}
+img.pic:hover, img.pic:focus{
+  width: 320px;
+  
+}
